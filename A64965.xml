@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Nathanael Vincent's letter to his congregation in and about London</title>
+            <author>Vincent, Nathanael, 1639?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64965</idno>
+            <idno type="STC">Wing V411</idno>
+            <idno type="STC">ESTC R18628</idno>
+            <idno type="EEBO-CITATION">12874640</idno>
+            <idno type="OCLC">ocm 12874640</idno>
+            <idno type="VID">94817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Nathanael Vincent's letter to his congregation in and about London</title>
+                  <author>Vincent, Nathanael, 1639?-1697.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Cox ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  England --  London --  Retirement.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="pastoral_letter">
+            <pb facs="tcp:94817:1" rendition="simple:additions"/>
+            <head>Mr. Nathanael Vincent's LETTER TO HIS CONGREGATION In and about LONDON.</head>
+            <opener>
+               <salute>Moſt dearly beloved in our Lord and Saviour,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y ſilent Sabbaths are a ſore Tryall to me, a Pulpit is more deſirable to me then an Emperours Throne, Oh! how do I long to be among you again, that I may publiſh the glad tydings of Salvation, prevent the loſs and ruine of Souls, which are of greater value then the whole World; <hi>Sathan</hi> is buſy, his <hi>Inſtruments</hi> are active, the <hi>Flock</hi> of Chriſt needs food; Oh! ſad neceſſity that <hi>I</hi> muſt be ſilent. But you will preſently be apt to reply, From whence is this neceſſity? I can aſſure you not from any promiſe I am under not to Preach at all, nor for fear of puniſhments for Preaching: But hope of ſerviceableneſs ſhortly makes me at preſent forbear, and my body by Impriſonments hath been ſo weakened that to put it upon that hard labour it was uſed to heretofore, would in all likelyhood deſtroy it, and put an end to my days and Preach<g ref="char:EOLhyphen"/>ing together. <hi>Jeruſalem</hi> in the depths of her diſtreſs remembred the joy<g ref="char:EOLhyphen"/>ful days that once ſhe had when ſhe was Princeſs among the Provinces, when her mount <hi>Zion</hi> was the Joy of the whole Earth, and ſhe was exalted above the reſt of the Nations in regard of ſacred and Civil Pri<g ref="char:EOLhyphen"/>viledges: and alaſs being now deprived of theſe, her ſorrow was the more overwhelming. Oh! my dear Brethren, I remember the bleſſed and peaceable Sabbaths. I injoyed with you, <hi>Thouſands</hi> of us were admit<g ref="char:EOLhyphen"/>ted together to the Throne of Grace, that we might joyn our forces, our Graces together, and prevail with the Father of Mercies who takes delight in the ſincere ſupplications of his People. I had liberty of propheſying to <hi>Thouſands</hi> and ſpread the Net of the Goſpel wide, and Bleſſed, bleſſed be God, that ſo many Souls were taken; I had liberty to cry that I might awaken the ſecure, to fill my mouth with arguments to perſwade Souls to be<g ref="char:EOLhyphen"/>lieve and be converted. I call to mind my well beſtowed <hi>Sweat</hi> and <hi>Pains,</hi> for I never grudg'd to ſpend my ſelf and to be ſpent for you. Oh! The in<g ref="char:EOLhyphen"/>largements I have had in Prayer, the aſſiſtances vouchſafed in Preaching; the
+<pb facs="tcp:94817:2"/> 
+               <hi>warmth,</hi> the <hi>meltings,</hi> the <hi>raviſhments,</hi> the holy reſolutions at the Lords Table. Lament, Lament, and again I ſay Lament, Oh! my Soul, that now the Caſe is ſo ſadly altered, there is a black cloud that covers the <hi>Stars</hi> in Chriſts right Hand. Solemn aſſemblies are broken, and ſtraving Souls, when in part ready to take their Food, have it cruelly ſnatcht away from them. I have been told that when a famous Church in <hi>France</hi> was of late pull'd down, where Proteſtants uſed to meet and worſhip; That the pul<g ref="char:EOLhyphen"/>ling of it down was a moſt affecting ſpectacle, the Proteſtants came and looked on, and Oh! what beating of Breaſt was there; what floods of Tears were ſhed, what bitter reflections upon their unprofitableneſs under thoſe Ordinances which there had been publickly adminiſtred. Break, break, Oh! my ſtupid Heart, to think how <hi>I</hi> am thruſt out of the Pulpit, and deprived, of thoſe precious opportunities of ſervice which once I had. And you, my dear Brethren, Mourn together with me, that you improved Sermons no better, and that tho ſo much Seed was ſown, and that Seed was <hi>Watered</hi> ſo <hi>plentifully,</hi> yet ſo little Fruit was brought forth.</p>
+            <p>Many billows have gone over us already, and perhaps more are coming: God preſerve the Veſſel of his Church from drowning. Sometimes I have feared, and the Lord grant I be not prophetical, ſince Family duties have been ſo much neglected, that Family worſhip will be only allowed to Proteſtant Diſſentors. I have feared becauſe <hi>Chriſtians</hi> have been ſo <hi>proud,</hi> ſo <hi>worldly,</hi> ſo <hi>vain,</hi> ſo <hi>cenſorious,</hi> ſo <hi>backbiting,</hi> when they have come to<g ref="char:EOLhyphen"/>gether, that they ſhall be more ſcattered then ever, Oh! that <hi>Tongue Sins</hi> may not coſt profeſſors ſo dear as to make Miniſters, nay God himſelf ſilent. Oh! let us all ſmite on our Thighs, and ſay, what have we done, what have we ſpoken, what have we thought that hath been amiſs? True Repentance which doth include a Thorow and laſting Reformation is the way to fix the Golden Candelſtick again in its place and to prevent a Nations ruine; and which is comfortable to conſider the Repentance of Tens may do more good, then harm can be done by the Sins of <hi>Thouſands.</hi> Brethren pray very hard for me, that I may be ſtrengthened every way both in body and Spirit, that Head and Heart may be bettered, and both ſincerely ingaged in the ſervice of Chriſt, and you; that the Waters which becauſe of my Im<g ref="char:EOLhyphen"/>priſonment I have need to uſe longer this year then others, may be Healing, and that once again as great a <hi>Door</hi> as ever, and much more effectual then ever, notwithſtanding our many Adverſaries may, be opened to</p>
+            <closer>
+               <signed>Your moſt affectionate Paſtor, and without Complement, your Servant for Jeſus ſake, Nathanael Vincent.</signed>
+               <dateline>
+                  <date>
+                     <hi>June</hi> the 24 1683. being Sabbath, but a ſad Sab<g ref="char:EOLhyphen"/>bath, being abſent from you my dearly Beloved.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div rend="italic" type="editor_to_the_reader">
+            <head>POSTCRIPT.</head>
+            <p>THis canting Letter is publiſhed, that the world may ſee their pernicious principles and practices are ſtill the ſame to deceive the multitude. That it is his own Letter, neither he nor his Congregation can deny.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Cox,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames ſtreet</hi> over againſt <hi>Baynards Caſtle.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
